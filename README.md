@@ -2,9 +2,9 @@
 GetItDone is a simple todo-list app made using PHP, MySQL, HTML, CSS.
 
 # Technologies Used
-1.) Core PHP Programming Language (Procedural Programming)
-2.) MySQL Database
-3.) HTML
+1.) Core PHP Programming Language (Procedural Programming) <br />
+2.) MySQL Database <br />
+3.) HTML <br />
 4.) CSS 
 
 # Database Schema
